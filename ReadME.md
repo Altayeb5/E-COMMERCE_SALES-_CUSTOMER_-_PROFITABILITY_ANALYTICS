@@ -83,7 +83,7 @@ df_master['IsReturned'] = df_master['ReturnID'].notna().astype(int)
 df_master['OrderDate'] = pd.to_datetime(df_master['OrderDate'])
 
 # 5. Database Pipeline via SQLAlchemy
-engine = create_engine('postgresql://postgres:123456@localhost:5432/apex_retail')
+engine = create_engine('postgresql://postgres:pass@localhost:port/apex_retail')
 
 df_customers.to_sql('customers', engine, if_exists='replace', index=False)
 df_products.to_sql('products', engine, if_exists='replace', index=False)
@@ -131,7 +131,7 @@ In Power BI, tables were structured into an optimized **Star Schema** to enable 
 ```text
 ├── Datasets/              # Raw CSV data sources
 ├── python/                # Python scripts for EDA & database ingestion
-│   └── eda_and_loader.py
+│   └── eda_and_loader.ipynb
 ├── sql/                   # PostgreSQL analytical scripts
 │   ├── 01_pareto_analysis.sql
 │   ├── 02_discount_leakage.sql

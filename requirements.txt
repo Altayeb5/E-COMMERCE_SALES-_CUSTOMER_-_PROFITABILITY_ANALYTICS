@@ -1,0 +1,12 @@
+# Core data libraries
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+
+# PostgreSQL loading (pandas.to_sql via SQLAlchemy 'postgresql://' URL)
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+
+# Running the notebook
+jupyter>=1.0
+ipykernel>=6.25
