@@ -1,0 +1,46 @@
+ProductID,ProductName,Category,SubCategory,CostPrice,UnitPrice
+PROD-001,Smartphones Item 1,Electronics,Smartphones,125.64,175.9
+PROD-002,Smartphones Item 2,Electronics,Smartphones,187.45,374.9
+PROD-003,Smartphones Item 3,Electronics,Smartphones,25.87,31.04
+PROD-004,Laptops Item 1,Electronics,Laptops,342.74,479.84
+PROD-005,Laptops Item 2,Electronics,Laptops,192.29,163.45
+PROD-006,Laptops Item 3,Electronics,Laptops,291.22,582.44
+PROD-007,Accessories Item 1,Electronics,Accessories,189.81,265.73
+PROD-008,Accessories Item 2,Electronics,Accessories,328.28,393.94
+PROD-009,Accessories Item 3,Electronics,Accessories,480.65,408.55
+PROD-010,Audio Item 1,Electronics,Audio,370.48,592.77
+PROD-011,Audio Item 2,Electronics,Audio,263.7,527.4
+PROD-012,Audio Item 3,Electronics,Audio,67.7,94.78
+PROD-013,Chairs Item 1,Furniture,Chairs,354.98,425.98
+PROD-014,Chairs Item 2,Furniture,Chairs,498.22,697.51
+PROD-015,Chairs Item 3,Furniture,Chairs,350.05,560.08
+PROD-016,Tables Item 1,Furniture,Tables,108.09,129.71
+PROD-017,Tables Item 2,Furniture,Tables,427.88,684.61
+PROD-018,Tables Item 3,Furniture,Tables,94.6,151.36
+PROD-019,Bookcases Item 1,Furniture,Bookcases,498.66,698.12
+PROD-020,Bookcases Item 2,Furniture,Bookcases,337.24,286.65
+PROD-021,Bookcases Item 3,Furniture,Bookcases,279.5,391.3
+PROD-022,Furnishings Item 1,Furniture,Furnishings,446.75,536.1
+PROD-023,Furnishings Item 2,Furniture,Furnishings,358.79,430.55
+PROD-024,Furnishings Item 3,Furniture,Furnishings,398.91,797.82
+PROD-025,Paper Item 1,Office Supplies,Paper,119.88,143.86
+PROD-026,Paper Item 2,Office Supplies,Paper,398.11,477.73
+PROD-027,Paper Item 3,Office Supplies,Paper,397.28,337.69
+PROD-028,Binders Item 1,Office Supplies,Binders,186.84,373.68
+PROD-029,Binders Item 2,Office Supplies,Binders,190.77,381.54
+PROD-030,Binders Item 3,Office Supplies,Binders,73.59,62.55
+PROD-031,Art Item 1,Office Supplies,Art,42.22,67.55
+PROD-032,Art Item 2,Office Supplies,Art,499.8,799.68
+PROD-033,Art Item 3,Office Supplies,Art,267.59,428.14
+PROD-034,Storage Item 1,Office Supplies,Storage,413.44,351.42
+PROD-035,Storage Item 2,Office Supplies,Storage,71.41,99.97
+PROD-036,Storage Item 3,Office Supplies,Storage,324.75,519.6
+PROD-037,Men's Wear Item 1,Apparel,Men's Wear,238.26,476.52
+PROD-038,Men's Wear Item 2,Apparel,Men's Wear,178.81,357.62
+PROD-039,Men's Wear Item 3,Apparel,Men's Wear,323.5,388.2
+PROD-040,Women's Wear Item 1,Apparel,Women's Wear,386.21,463.45
+PROD-041,Women's Wear Item 2,Apparel,Women's Wear,221.98,188.68
+PROD-042,Women's Wear Item 3,Apparel,Women's Wear,417.38,834.76
+PROD-043,Footwear Item 1,Apparel,Footwear,84.98,101.98
+PROD-044,Footwear Item 2,Apparel,Footwear,89.36,107.23
+PROD-045,Footwear Item 3,Apparel,Footwear,179.55,359.1
